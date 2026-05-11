@@ -1,4 +1,5 @@
-<h1>Hi, I'm Greffey, an <a href="https://linkedin.com/in/ggeffrard">IT Professional</a>☺</h1>
+<h1>Hi, I'm Greffey👋, a Google Cybersecurity Certified professional with a background in IT support, system troubleshooting, networking, and security operations.
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
