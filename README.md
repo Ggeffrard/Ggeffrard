@@ -44,7 +44,10 @@
   - [Packet Captures]()
   - [DNS analysis]()
   - [Suspicious Traffic Investigation]()
-  - 
+
+- <b>Linux Hardening Lab</b>
+- <b>SQL Security Investigation</b>
+- <b>SIEM Threat Monitoring</b>
       
     
 <h2>🤳Connect with me:</h2>
