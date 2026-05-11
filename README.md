@@ -1,5 +1,4 @@
-<h1>Hi, I'm Greffey👋, a Google Cybersecurity Certified professional with hands-on experience in IT support, system administration, networking, and security operations. Passionate about threat detection, incident response, SIEM monitoring, and protecting organizational systems.
-
+<h1>Hi, I'm Greffey👋, a Google Cybersecurity Certified professional with hands-on experience in IT support, networking, cloud infrastructure, and security operations.
   ## 🛠️ Technical Skills
 
 ### Operating Systems
