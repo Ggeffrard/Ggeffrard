@@ -1,5 +1,4 @@
-<h1>Hi, I'm Greffey👋, a Google Cybersecurity Certified professional with a background in IT support, system troubleshooting, networking, and security operations.
-
+<h1>Hi, I'm Greffey👋, a Google Cybersecurity Certified professional with hands-on experience in IT support, system administration, networking, and security operations. Passionate about threat detection, incident response, SIEM monitoring, and protecting organizational systems.
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -12,9 +11,13 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Ggeffrard/azure-network-protocols)
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine ](https://github.com/Ggeffrard/Setting-UP-A-VPN)
+
+    <h2>👨‍💻 Cybersecurity Projects:</h2>
+    - <b>
     
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]:https://www.linkedin.com/in/ggeffrard/
+
