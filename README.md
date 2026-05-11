@@ -39,8 +39,13 @@
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine ](https://github.com/Ggeffrard/Setting-UP-A-VPN)
 
-    <h2>👨‍💻 Cybersecurity Projects:</h2>
-    - <b>
+  <h2>👨‍💻 Cybersecurity Projects:</h2>
+- <b>Wireshark Network Analysis</b>
+  - [Packet Captures]()
+  - [DNS analysis]()
+  - [Suspicious Traffic Investigation]()
+  - 
+      
     
 <h2>🤳Connect with me:</h2>
 
