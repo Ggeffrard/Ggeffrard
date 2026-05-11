@@ -41,13 +41,30 @@
 
   <h2>👨‍💻 Cybersecurity Projects:</h2>
 - <b>Wireshark Network Analysis</b>
-  - [Packet Captures]()
-  - [DNS analysis]()
-  - [Suspicious Traffic Investigation]()
-
+   - [Captured and analyzed live network traffic using Wireshark]()
+   - [Investigated DNS queries, TCP handshakes, and HTTP/HTTPS traffic]()
+   - [Identified source and destination IP addresses, protocols, and packet behavior]()
+   - [Applied packet filtering techniques to isolate and inspect suspicious traffic]()
+   - [Strengthened understanding of network protocols and packet-level analysis]()
 - <b>Linux Hardening Lab</b>
+  - [Performed Linux system hardening through user, permission, and access control management]()
+  - [Configured secure SSH settings and restricted unauthorized remote access]()
+  - [Implemented firewall rules and monitored network access using UFW]()
+  - [Applied Linux security best practices to improve overall system security posture]()
+  - [Developed hands-on experience with Linux administration and endpoint security]()
 - <b>SQL Security Investigation</b>
+  - [Utilized SQL queries to analyze authentication logs and security events]()
+  - [Investigated suspicious login activity and failed authentication attempts]()
+  - [Identified potential brute-force attacks through log filtering and pattern analysis]()
+  - [Extracted and organized security data to support threat investigations]()
+  - [Developed hands-on experience with log analysis and threat detection workflows]()
 - <b>SIEM Threat Monitoring</b>
+   - [Monitored security logs and alerts using SIEM platforms such as Splunk and Google Chronicle]()
+   - [Investigated suspicious authentication activity, failed logins, and potential security threats]()
+   - [Applied log filtering and event correlation techniques to identify unusual behavior]()
+   - [Developed dashboards and alert queries to support threat detection and incident response]()
+   - [Gained hands-on experience with SOC operations, security monitoring, and incident investigation]()
+
       
     
 <h2>🤳Connect with me:</h2>
