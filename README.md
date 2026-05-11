@@ -1,5 +1,32 @@
 <h1>Hi, I'm Greffey👋, a Google Cybersecurity Certified professional with hands-on experience in IT support, system administration, networking, and security operations. Passionate about threat detection, incident response, SIEM monitoring, and protecting organizational systems.
 
+  ## 🛠️ Technical Skills
+
+### Operating Systems
+- Windows
+- Linux
+
+### Networking
+- TCP/IP
+- DNS
+- VPNs
+- Network Security Groups (NSGs)
+
+### Security Tools
+- Wireshark
+- Splunk
+- Microsoft Azure
+
+### Languages & Querying
+- SQL
+- PowerShell
+- Bash
+
+### Security Concepts
+- SIEM Monitoring
+- Incident Response
+- Threat Detection
+- Log Analysis
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
