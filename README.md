@@ -39,13 +39,13 @@
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine ](https://github.com/Ggeffrard/Setting-UP-A-VPN)
 
-  <h2>👨‍💻 Cybersecurity Projects:</h2>
-- <b>Wireshark Network Analysis</b>
-   - [Captured and analyzed live network traffic using Wireshark]()
-   - [Investigated DNS queries, TCP handshakes, and HTTP/HTTPS traffic]()
-   - [Identified source and destination IP addresses, protocols, and packet behavior]()
-   - [Applied packet filtering techniques to isolate and inspect suspicious traffic]()
-   - [Strengthened understanding of network protocols and packet-level analysis]()
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+- <b>Incident Response Investigation</b>
+   - [Investigated simulated security incidents and suspicious activity]()
+   - [Analyzed logs and alerts to identify potential threats and security events]()
+   - [Applied incident response processes including identification, containment, and recovery]()
+   - [Documented findings and response actions during security investigations]()
+   - [Strengthened understanding of SOC workflows and threat response procedures]()
 - <b>Linux Hardening Lab</b>
   - [Performed Linux system hardening through user, permission, and access control management]()
   - [Configured secure SSH settings and restricted unauthorized remote access]()
