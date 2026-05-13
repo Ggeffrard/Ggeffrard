@@ -40,6 +40,7 @@
   - [VPN Setup in Virtual Machine ](https://github.com/Ggeffrard/Setting-UP-A-VPN)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+
 - <b>Incident Response Investigation</b>
    - [Investigated simulated security incidents and suspicious activity]()
    - [Analyzed logs and alerts to identify potential threats and security events]()
