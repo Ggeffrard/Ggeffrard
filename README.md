@@ -42,7 +42,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Incident Response Investigation</b>
-   - [Analyzing Network Packets with Wireshark]()
+   - [Analyzing Network Packets with Wireshark](https://github.com/Ggeffrard/Analyzing-Network-Packets-with-Wireshark/blob/main/README.md)
    - [Failed Login Investigation]()
    - [Security Log Analysis]()
    - [Suspicious Network Activity Investigation]()
