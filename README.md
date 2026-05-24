@@ -40,32 +40,24 @@
   - [VPN Setup in Virtual Machine ](https://github.com/Ggeffrard/Setting-UP-A-VPN)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
+]()
 - <b>Incident Response Investigation</b>
-   - [Investigated simulated security incidents and suspicious activity]()
-   - [Analyzed logs and alerts to identify potential threats and security events]()
-   - [Applied incident response processes including identification, containment, and recovery]()
-   - [Documented findings and response actions during security investigations]()
-   - [Strengthened understanding of SOC workflows and threat response procedures]()
+   - [Analyzing Network Packets with Wireshark]()
+   - [Failed Login Investigation]()
+   - [Security Log Analysis]()
+   - [Suspicious Network Activity Investigation]()
 - <b>Linux Hardening Lab</b>
-  - [Performed Linux system hardening through user, permission, and access control management]()
-  - [Configured secure SSH settings and restricted unauthorized remote access]()
-  - [Implemented firewall rules and monitored network access using UFW]()
-  - [Applied Linux security best practices to improve overall system security posture]()
-  - [Developed hands-on experience with Linux administration and endpoint security]()
+  - [User & Permission Management]()
+  - [SSH Hardening]()
+  - [Firewall Configuration]()
 - <b>SQL Security Investigation</b>
-  - [Utilized SQL queries to analyze authentication logs and security events]()
-  - [Investigated suspicious login activity and failed authentication attempts]()
-  - [Identified potential brute-force attacks through log filtering and pattern analysis]()
-  - [Extracted and organized security data to support threat investigations]()
-  - [Developed hands-on experience with log analysis and threat detection workflows]()
+  - [Failed Authentication Analysis]()
+  - [Suspicious Login Activity]()
+  - [Log Query Analysis]()
 - <b>SIEM Threat Monitoring</b>
-   - [Monitored security logs and alerts using SIEM platforms such as Splunk and Google Chronicle]()
-   - [Investigated suspicious authentication activity, failed logins, and potential security threats]()
-   - [Applied log filtering and event correlation techniques to identify unusual behavior]()
-   - [Developed dashboards and alert queries to support threat detection and incident response]()
-   - [Gained hands-on experience with SOC operations, security monitoring, and incident investigation]()
-
+   - [Monitoring Security Alerts]()
+   - [Investigating Failed Login Attempts]()
+   - [Threat Detection Dashboards]()
       
     
 <h2>🤳Connect with me:</h2>
