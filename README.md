@@ -45,7 +45,7 @@
    - [Analyzing Network Packets with Wireshark](https://github.com/Ggeffrard/Analyzing-Network-Packets-with-Wireshark/blob/main/README.md)
    - [Failed Login Investigation](https://github.com/Ggeffrard/Failed-Login-Investigation)
 - <b>Linux Hardening Lab</b>
-  - [User & Permission Management]()
+  - [User & Permission Management](https://github.com/Ggeffrard/User-Permission-Management/tree/main)
   - [SSH Hardening]()
   - [Firewall Configuration]()
 - <b>SIEM Threat Monitoring</b>
