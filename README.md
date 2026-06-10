@@ -47,7 +47,7 @@
 - <b>Linux Security Administration</b>
   - [User & Permission Management](https://github.com/Ggeffrard/User-Permission-Management/tree/main)
 - <b>SIEM Threat Monitoring</b>
-   - [Explore Signatures and Logs with Suricata]()
+   - [Explore Signatures and Logs with Suricata](https://github.com/Ggeffrard/Explore-Signatures-and-Logs-with-Suricata)
    - [Monitoring Security Alerts]()
    - [Threat Detection Dashboards]()
       
