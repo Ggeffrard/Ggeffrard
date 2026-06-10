@@ -49,7 +49,7 @@
   - [Firewall Configuration]()
 - <b>SIEM Threat Monitoring</b>
    - [Monitoring Security Alerts]()
-   - [Investigating Failed Login Attempts]()
+   - [Event Correlation Analysis]()
    - [Threat Detection Dashboards]()
       
     
