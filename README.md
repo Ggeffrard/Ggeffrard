@@ -46,7 +46,7 @@
    - [Failed Login Investigation](https://github.com/Ggeffrard/Failed-Login-Investigation)
 - <b>Linux Hardening Lab</b>
   - [User & Permission Management](https://github.com/Ggeffrard/User-Permission-Management/tree/main)
-  - [SSH Hardening]()
+  - [Linux File Permission Auditing]()
   - [Firewall Configuration]()
 - <b>SIEM Threat Monitoring</b>
    - [Monitoring Security Alerts]()
