@@ -51,8 +51,8 @@
    - [Explore Signatures and Logs with Suricata](https://github.com/Ggeffrard/Explore-Signatures-and-Logs-with-Suricata)
    - [Monitoring Security Alerts]()
    - [Threat Detection Dashboards]()
-- <b>Investigating Security Data with SQL</b>
-   - [SQL & Security Analysis]()
+- <b>SQL Security Analysis</b>
+   - [Investigating Security Data with SQL]()
 
 
       
