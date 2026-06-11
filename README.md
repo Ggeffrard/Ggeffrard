@@ -50,7 +50,7 @@
 - <b>SIEM Threat Monitoring</b>
    - [Explore Signatures and Logs with Suricata](https://github.com/Ggeffrard/Explore-Signatures-and-Logs-with-Suricata)
 - <b>SQL Security Analysis</b>
-   - [Investigating Security Data with SQL]()
+   - [Investigating Security Data with SQL](https://github.com/Ggeffrard/Investigating-Security-Data-with-SQL/tree/main)
 
 
       
