@@ -44,6 +44,7 @@
 - <b>Incident Response Investigation</b>
    - [Analyzing Network Packets with Wireshark](https://github.com/Ggeffrard/Analyzing-Network-Packets-with-Wireshark/blob/main/README.md)
    - [Failed Login Investigation](https://github.com/Ggeffrard/Failed-Login-Investigation)
+   - [TCPdump Network Traffic Analysis](https://github.com/Ggeffrard/TCPdump-Network-Traffic-Analysis/tree/main)
 - <b>Linux Security Administration</b>
   - [User & Permission Management](https://github.com/Ggeffrard/User-Permission-Management/tree/main)
 - <b>SIEM Threat Monitoring</b>
