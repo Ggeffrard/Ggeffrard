@@ -47,6 +47,7 @@
    - [TCPdump Network Traffic Analysis](https://github.com/Ggeffrard/TCPdump-Network-Traffic-Analysis/tree/main)
 - <b>Linux Security Administration</b>
   - [User & Permission Management](https://github.com/Ggeffrard/User-Permission-Management/tree/main)
+  - [Searching and Filtering Data with Linux grep](https://github.com/Ggeffrard/Searching-and-Filtering-Data-with-Linux-grep)
 - <b>SIEM Threat Monitoring</b>
    - [Explore Signatures and Logs with Suricata](https://github.com/Ggeffrard/Explore-Signatures-and-Logs-with-Suricata)
 - <b>SQL Security Analysis</b>
